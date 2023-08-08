@@ -28,4 +28,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Site sobre a ODS 6 que é uma das 17 ODS (Objetivos de Desenvolvimento Sustentável) estabelecido pela ONU.
 
-- [Acesse o projeto finalizado, online](https://ahcarol.github.io/projeto-ods/)
+- [Acesse o projeto finalizado, online](https://ahcarol.github.io/projeto-ods6/)
